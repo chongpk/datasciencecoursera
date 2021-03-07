@@ -13,11 +13,11 @@ Data Zip File Location: [UC Irvine Repo](https://d396qusza40orc.cloudfront.net/g
 
 Goal | Item | Link to Item
 --- | --- | ---
-Analysis R Script |  run_analysis.R |  [R Script Link](https://https://github.com/chongpk/datasciencecoursera/run_analysis.R "run_analysis.R")
-Tidy Data Set |  Clean Data Set |  [Data Set Link](https://https://github.com/chongpk/datasciencecoursera/tidyData.txt "tidyData.txt")
-Github Repo | Repo |  [Repo Link](https://https://github.com/chongpk/datasciencecoursera "Click to go to Repo")
-Cookbook | CodeBook.md |  [Repo Link](https://https://github.com/chongpk/datasciencecoursera/CodeBook.md "CodeBook.md")
-README | ReadingItNow |  [Repo Link](https://https://github.com/chongpk/datasciencecoursera/README.md "README.md")
+Analysis R Script |  run_analysis.R |  [R Script Link](https://github.com/chongpk/datasciencecoursera//blob/master/run_analysis.R "run_analysis.R")
+Tidy Data Set |  Clean Data Set |  [Data Set Link](https://github.com/chongpk/datasciencecoursera//blob/master/tidyData.txt "tidyData.txt")
+Github Repo | Repo |  [Repo Link](https://github.com/chongpk/datasciencecoursera "Click to go to Repo")
+Cookbook | CodeBook.md |  [Repo Link](https://github.com/chongpk/datasciencecoursera//blob/master/CodeBook.md "CodeBook.md")
+README | ReadingItNow |  [Repo Link](https://github.com/chongpk/datasciencecoursera/blob/master/README.md "README.md")
 
 
 
