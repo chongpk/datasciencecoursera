@@ -1,6 +1,6 @@
 ### Published Reports
 
-- [Predicting Good and Bad Weightlifting Manner](http://chongpk.github.io/perediction/)
+- [Predicting Good and Bad Weightlifting Manner](http://chongpk.github.io/prediction/)
 
 
 ### Project Description
